@@ -5,16 +5,6 @@ Place start/end, draw barriers, hit **Space** and watch A* explore the grid and 
 
 ---
 
-## Badges 
-
-```
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Pygame](https://img.shields.io/badge/pygame-✓-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-```
-
----
-
 # Features ✨
 
 * Real-time A* visualization (open set / closed set / final path)
